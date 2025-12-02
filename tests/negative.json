@@ -1,0 +1,357 @@
+[
+  {
+    "from": "N0",
+    "to": "N2",
+    "weight": 6
+  },
+  {
+    "from": "N0",
+    "to": "N3",
+    "weight": 6
+  },
+  {
+    "from": "N0",
+    "to": "N4",
+    "weight": 6
+  },
+  {
+    "from": "N0",
+    "to": "N7",
+    "weight": 3
+  },
+  {
+    "from": "N0",
+    "to": "N12",
+    "weight": 1
+  },
+  {
+    "from": "N0",
+    "to": "N13",
+    "weight": 16
+  },
+  {
+    "from": "N1",
+    "to": "N2",
+    "weight": 6
+  },
+  {
+    "from": "N1",
+    "to": "N3",
+    "weight": -17
+  },
+  {
+    "from": "N1",
+    "to": "N4",
+    "weight": 17
+  },
+  {
+    "from": "N1",
+    "to": "N8",
+    "weight": 18
+  },
+  {
+    "from": "N1",
+    "to": "N13",
+    "weight": 18
+  },
+  {
+    "from": "N1",
+    "to": "N17",
+    "weight": 16
+  },
+  {
+    "from": "N2",
+    "to": "N5",
+    "weight": 20
+  },
+  {
+    "from": "N3",
+    "to": "N0",
+    "weight": 4
+  },
+  {
+    "from": "N3",
+    "to": "N2",
+    "weight": 11
+  },
+  {
+    "from": "N3",
+    "to": "N4",
+    "weight": 6
+  },
+  {
+    "from": "N3",
+    "to": "N19",
+    "weight": 20
+  },
+  {
+    "from": "N4",
+    "to": "N1",
+    "weight": 16
+  },
+  {
+    "from": "N4",
+    "to": "N15",
+    "weight": 6
+  },
+  {
+    "from": "N4",
+    "to": "N17",
+    "weight": 10
+  },
+  {
+    "from": "N5",
+    "to": "N2",
+    "weight": -19
+  },
+  {
+    "from": "N5",
+    "to": "N13",
+    "weight": 10
+  },
+  {
+    "from": "N5",
+    "to": "N18",
+    "weight": 17
+  },
+  {
+    "from": "N5",
+    "to": "N19",
+    "weight": 17
+  },
+  {
+    "from": "N6",
+    "to": "N2",
+    "weight": 13
+  },
+  {
+    "from": "N6",
+    "to": "N7",
+    "weight": 20
+  },
+  {
+    "from": "N7",
+    "to": "N12",
+    "weight": 16
+  },
+  {
+    "from": "N7",
+    "to": "N15",
+    "weight": 19
+  },
+  {
+    "from": "N8",
+    "to": "N4",
+    "weight": 3
+  },
+  {
+    "from": "N8",
+    "to": "N11",
+    "weight": 3
+  },
+  {
+    "from": "N8",
+    "to": "N13",
+    "weight": -15
+  },
+  {
+    "from": "N8",
+    "to": "N15",
+    "weight": 4
+  },
+  {
+    "from": "N8",
+    "to": "N18",
+    "weight": 14
+  },
+  {
+    "from": "N8",
+    "to": "N19",
+    "weight": 11
+  },
+  {
+    "from": "N9",
+    "to": "N4",
+    "weight": 6
+  },
+  {
+    "from": "N9",
+    "to": "N12",
+    "weight": 18
+  },
+  {
+    "from": "N9",
+    "to": "N17",
+    "weight": -6
+  },
+  {
+    "from": "N10",
+    "to": "N0",
+    "weight": 20
+  },
+  {
+    "from": "N10",
+    "to": "N4",
+    "weight": 20
+  },
+  {
+    "from": "N10",
+    "to": "N6",
+    "weight": 3
+  },
+  {
+    "from": "N10",
+    "to": "N7",
+    "weight": 17
+  },
+  {
+    "from": "N10",
+    "to": "N8",
+    "weight": 8
+  },
+  {
+    "from": "N10",
+    "to": "N19",
+    "weight": 8
+  },
+  {
+    "from": "N11",
+    "to": "N4",
+    "weight": 5
+  },
+  {
+    "from": "N11",
+    "to": "N12",
+    "weight": 10
+  },
+  {
+    "from": "N11",
+    "to": "N17",
+    "weight": 13
+  },
+  {
+    "from": "N12",
+    "to": "N11",
+    "weight": 3
+  },
+  {
+    "from": "N12",
+    "to": "N14",
+    "weight": 4
+  },
+  {
+    "from": "N12",
+    "to": "N16",
+    "weight": 2
+  },
+  {
+    "from": "N12",
+    "to": "N18",
+    "weight": 4
+  },
+  {
+    "from": "N13",
+    "to": "N8",
+    "weight": 8
+  },
+  {
+    "from": "N13",
+    "to": "N16",
+    "weight": 15
+  },
+  {
+    "from": "N14",
+    "to": "N6",
+    "weight": 4
+  },
+  {
+    "from": "N14",
+    "to": "N10",
+    "weight": 20
+  },
+  {
+    "from": "N15",
+    "to": "N5",
+    "weight": 2
+  },
+  {
+    "from": "N15",
+    "to": "N7",
+    "weight": 14
+  },
+  {
+    "from": "N15",
+    "to": "N17",
+    "weight": 8
+  },
+  {
+    "from": "N15",
+    "to": "N18",
+    "weight": 3
+  },
+  {
+    "from": "N16",
+    "to": "N4",
+    "weight": 8
+  },
+  {
+    "from": "N16",
+    "to": "N7",
+    "weight": 17
+  },
+  {
+    "from": "N16",
+    "to": "N8",
+    "weight": -12
+  },
+  {
+    "from": "N16",
+    "to": "N9",
+    "weight": 20
+  },
+  {
+    "from": "N16",
+    "to": "N15",
+    "weight": 18
+  },
+  {
+    "from": "N17",
+    "to": "N2",
+    "weight": -9
+  },
+  {
+    "from": "N17",
+    "to": "N10",
+    "weight": 4
+  },
+  {
+    "from": "N17",
+    "to": "N13",
+    "weight": 4
+  },
+  {
+    "from": "N17",
+    "to": "N14",
+    "weight": 14
+  },
+  {
+    "from": "N18",
+    "to": "N1",
+    "weight": 14
+  },
+  {
+    "from": "N18",
+    "to": "N10",
+    "weight": 15
+  },
+  {
+    "from": "N19",
+    "to": "N1",
+    "weight": 19
+  },
+  {
+    "from": "N19",
+    "to": "N11",
+    "weight": 20
+  }
+]
